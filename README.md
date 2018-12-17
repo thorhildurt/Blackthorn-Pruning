@@ -5,7 +5,7 @@
 - Implemented during a three week course at Reykjavik University in spring semester 2018.
 
 ## Installing
-
+- Have nodejs installed
 ```
 git clone 'this-repo-url' app-name
 cd app-name
